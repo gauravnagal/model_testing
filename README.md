@@ -1,8 +1,7 @@
 # Model Testing
 
 
-This project writes a class or function to train, test, and store results for Fannie Mae Single-Family Loan Performance Data
-(Acquisition and Performance, 2010 Q1) for the following machine learning models:
+This project writes a class or function to train, test, and store results for Fannie Mae Single-Family Loan Performance Data (Acquisition and Performance, 2010 Q1) for the following machine learning models:
 - Decision Tree
 - Random Forest
 - Support Vector Machine
